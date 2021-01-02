@@ -1,5 +1,9 @@
 # nuxt-amplify
 
+## CAUTION
+
+TypeScriptのType Errorで動作しません。調査中。
+
 ## Build Setup
 
 ```bash
